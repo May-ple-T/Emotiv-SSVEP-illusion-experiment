@@ -1,2 +1,0 @@
-# Emotiv-SSVEP-illusion-experiment
-SSVEPベースBCIに対し，輝度変化による運動錯視の有効性を調べるための実験プログラム
